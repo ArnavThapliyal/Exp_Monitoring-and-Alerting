@@ -1,3 +1,5 @@
+name: Monitoring Demo
+
 on:
   push:
     branches: [ main ]
